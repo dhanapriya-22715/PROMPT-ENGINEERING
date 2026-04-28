@@ -220,7 +220,7 @@ NEtflix: Uses AI algorithms to analyze viewing habits and preferences, providing
 Sephora: It uses an augmented reality application called "Virtual Artist," which enables the user to try makeup products virtually, so the shopping experience is further enhanced through personal interactions with the product.
 StoryChief: AI is a system that helps in the production of blog articles, full with headings and SEO metadata, to assist writers get over writer's block and save time in content creation.
 # 4.  Generative AI impact of scaling in LLMs.
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/be5b6bd2-53ac-41c7-a53a-27d9370d65ea" />
+<img width="524" height="524" alt="image" src="https://github.com/user-attachments/assets/be5b6bd2-53ac-41c7-a53a-27d9370d65ea" />
 Enterprises are rapidly moving beyond narrow pilots. Instead, they’re strategically integrating LLMs into workflows, governance, and decision systems—pushing GenAI toward maturity.
 1.LLMs in 2025: Scaling Up, Down, and Out
 LLM proliferation isn’t just about bigger models. According to Stanford’s 2025 AI Index, training compute doubles every five months, datasets every eight, and efficiency gaps between top models are shrinking rapidly.
@@ -251,7 +251,7 @@ Here’s our perspective on that challenge and what we’ve learned from helping
 
 # 5. Explain about LLM and how it is build.
 Large language model definition
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/51c4f9f0-366a-4f8d-a677-48e6fac67ab1" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/51c4f9f0-366a-4f8d-a677-48e6fac67ab1" />
 
 At its core, a large language model (LLM) is a model trained using deep learning algorithms and capable of a broad range of natural language processing (NLP) tasks, such as sentiment analysis, conversational question answering, text translation, classification, and generation. An LLM is a type of neural network (NN) that specifically uses transformer architectures, which are models designed to detect dependencies between different parts of a sequence of data, regardless of their distance from each other. These neural networks are made up of layers of processing units, often compared to neurons in the brain. Large language models also have large numbers of parameters, akin to memories the model collects as it learns from training. Think of these parameters as the model's knowledge bank.
 This processing capability allows LLMs to be trained for tasks like writing software code, language generation, and more, while specialized models handle tasks like understanding protein structures.1 Large language models must be pretrained and then fine-tuned to solve text classification, question answering, document summarization, text generation problems, and other tasks. Their problem-solving capabilities can be applied to fields like healthcare, finance, and entertainment, where LLMs serve a host of NLP applications, such as translation, chatbots, and AI assistants.
