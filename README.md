@@ -174,6 +174,8 @@ Model Hubs & Repositories: Infrastructure for storing, versioning and sharing mo
 Orchestration & Resource Management: Tools for workload scheduling, autoscaling, containerization (Kubernetes) and cost optimization to efficiently manage AI resources.
 ## Top Applications of Generative AI
 Generative AI is transforming various Industries by creation of content, designs, and solutions. From enhancing creativity to improving productivity, its potential applications are vast and varied.
+
+
 <img src="https://github.com/user-attachments/assets/1dff0d61-ff5e-4c22-b881-39b04f15da55" width="400" /></td>
 <img width="1280" height="673" src="https://github.com/user-attachments/assets/3a9443b6-dfcc-4835-b3c6-c5b8b179c8ac" width="400" />
 
